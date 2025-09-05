@@ -179,7 +179,6 @@ Gross                - Bilheteria bruta
 
 ### Interpretabilidade
 - Feature importance
-- SHAP values (se implementado)
 - Análise de predições
 
 ## 📈 Resultados
@@ -225,11 +224,6 @@ pip install --upgrade jupyter
 - Reiniciar o kernel do Jupyter
 - Executar células individualmente
 
-### Logs e Debugging
-- Logs do CatBoost estão em `catboost_info/`
-- Use `print()` statements para debug
-- Verifique versões das bibliotecas: `pip list`
-
 ## 📝 Documentação Adicional
 
 ### Relatório Completo
@@ -264,14 +258,6 @@ Este projeto foi desenvolvido para o Desafio Indicium de Ciência de Dados.
 **Lucas**
 - Projeto: Desafio Indicium - Análise IMDb
 - Data: Setembro 2025
-
-## 📞 Suporte
-
-Para dúvidas ou problemas:
-1. Verifique a seção de Solução de Problemas
-2. Consulte o relatório completo
-3. Revise os comentários no notebook
-
 ---
 
 **Nota**: Este projeto utiliza dados do IMDb para fins educacionais e de análise. Certifique-se de que tem as dependências corretas instaladas antes de executar o código.
